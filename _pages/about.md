@@ -18,3 +18,9 @@ redirect_from:
 ## Education
 
 - Aug 2022 - Jul 2026 (Expected). B.Sc. student in Faculty of Computing, [Harbin Institute of Technology](http://www.hit.edu.cn/).
+
+
+
+## Publications
+
+```ACL 2025 Findings``` Self-Foveate: Enhancing Diversity and Difficulty of Synthesized Instructions from Unsupervised Text via Multi-Level Foveation, **Mingzhe Li**, Xin Lu, Yanyan Zhao.
