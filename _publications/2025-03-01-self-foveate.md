@@ -18,4 +18,4 @@ Comprehensive experiments across multiple unsupervised corpora and diverse model
 
 **Links:**
 - [ArXiv Paper](https://arxiv.org/abs/2507.23440)
-- [GitHub Repository](https://github.com/username/self-foveate) <!-- Update with actual GitHub link when available -->
+- [GitHub Repository](https://github.com/Mubuky/self-foveate) <!-- Update with actual GitHub link when available -->
