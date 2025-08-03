@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Mingzhe Li / Mubuky"
 title_separator          : "-"
 name                     : &name "Mingzhe Li"
-description              : &description "A third-year B.Sc. student in SCIR(HIT, China)."
+description              : &description "A fourth-year B.Sc. student at SCIR (HIT, China), interning at Shanghai Innovation Institute."
 url                      : https://mubuky.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mubuky/mubuky.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Mingzhe Li"
   pronouns         : "he/him"
-  bio              : "A third-year B.Sc. student in SCIR(HIT, China)"
+  bio              : "A fourth-year B.Sc. student at SCIR (HIT, China), interning at Shanghai Innovation Institute"
   location         : "Harbin, China"
   employer         : "Harbin Institute of Technology"
   uri              : # URL
@@ -32,7 +32,7 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=mHZ8IwgAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
