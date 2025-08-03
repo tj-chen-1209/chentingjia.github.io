@@ -3,7 +3,6 @@
 - **2022.09 - 2026.07 (Expected)**: Bachelor of Science in Artificial Intelligence
   [Harbin Institute of Technology](http://www.hit.edu.cn/), Harbin, China
   - **Advisor**: Prof. [Yanyan Zhao](http://ir.hit.edu.cn/~yanyanzhao/)
-  - **Research Focus**: Reinforcement Learning, Large Language Models, Natural Language Processing
 
 ## 🏆 Honors & Awards
 
