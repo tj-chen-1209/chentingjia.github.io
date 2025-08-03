@@ -9,7 +9,7 @@ redirect_from:
 
 ## Hi there 👋, I'm Mingzhe Li!
 
-- 🔭 I’m a third-year B.Sc. student in Research Center for Social Computing and Information Retrieval (SCIR), at **Harbin Institute of Technology** (HIT, China).
+- 🔭 I'm a fourth-year B.Sc. student in Research Center for Social Computing and Information Retrieval (SCIR), at **Harbin Institute of Technology** (HIT, China), currently interning at **Shanghai Innovation Institute**.
 - 🌱 I am broadly interested in **natural language processing** and machine learning. My current research focuses on synthetic data generation and self-improvement of large language models (LLMs).
 - 💬 I'm open to collaboration and discussions. Please feel free to contact me and explore possibilities together.
 
