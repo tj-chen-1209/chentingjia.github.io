@@ -23,4 +23,10 @@ redirect_from:
 
 ## Publications
 
-```ACL 2025 Findings``` Self-Foveate: Enhancing Diversity and Difficulty of Synthesized Instructions from Unsupervised Text via Multi-Level Foveation, **Mingzhe Li**, Xin Lu, Yanyan Zhao.
+You can find my full list of publications on my [Publications page](/publications/).
+
+### Recent Publications
+
+{% for post in site.publications reversed limit:3 %}
+  {% include archive-single-cv.html %}
+{% endfor %}
