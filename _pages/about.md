@@ -24,9 +24,3 @@ redirect_from:
 ## Publications
 
 You can find my full list of publications on my [Publications page](/publications/).
-
-### Recent Publications
-
-{% for post in site.publications reversed limit:3 %}
-  {% include archive-single-cv.html %}
-{% endfor %}

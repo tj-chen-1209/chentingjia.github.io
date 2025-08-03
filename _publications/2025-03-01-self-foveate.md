@@ -2,9 +2,9 @@
 title: "Self-Foveate: Enhancing Diversity and Difficulty of Synthesized Instructions from Unsupervised Text via Multi-Level Foveation"
 collection: publications
 category: conferences
-permalink: /publication/2025-03-01-self-foveate
+permalink: /publication/2025-07-30-self-foveate
 excerpt: 'This paper introduces Self-Foveate, an innovative LLM-driven method for instruction synthesis that uses multi-level foveation to enhance both diversity and difficulty of synthesized instructions from unsupervised text.'
-date: 2025-03-01
+date: 2025-07-30
 venue: 'Findings of ACL 2025'
 paperurl: 'https://arxiv.org/abs/2507.23440'
 citation: 'Mingzhe Li, Xin Lu, Yanyan Zhao. (2025). &quot;Self-Foveate: Enhancing Diversity and Difficulty of Synthesized Instructions from Unsupervised Text via Multi-Level Foveation.&quot; <i>Findings of ACL 2025</i>.'
@@ -18,4 +18,4 @@ Comprehensive experiments across multiple unsupervised corpora and diverse model
 
 **Links:**
 - [ArXiv Paper](https://arxiv.org/abs/2507.23440)
-- [GitHub Repository](https://github.com/Mubuky/self-foveate) <!-- Update with actual GitHub link when available -->
+- [GitHub Repository](https://github.com/Mubuky/self-foveate)
