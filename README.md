@@ -1,51 +1,116 @@
-# Academic Pages
+# Mingzhe Li's Academic Homepage
 
-![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
+A modern, responsive academic website built with Jekyll and hosted on GitHub Pages.
 
-Academic Pages is a Github Pages template for academic websites.
+## 🚀 Features
 
-# Getting Started
+### ✨ New Features Added:
+- **Modular Content Organization**: Content is organized into separate modules for easy maintenance
+- **Beautiful Paper Display**: Enhanced paper presentation with images, badges, and statistics
+- **News & Updates**: Dynamic news section for sharing latest achievements
+- **Google Scholar Integration**: Automatic citation statistics (when configured)
+- **Responsive Design**: Optimized for desktop, tablet, and mobile devices
+- **Professional Styling**: Custom CSS with paper-box layouts and modern aesthetics
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Click the "Use this template" button in the top right.
-1. On the "New repository" page, enter your repository name as "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and add your content.
-1. Upload any files (like PDFs, .zip files, etc.) to the `files/` directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+### 📂 Content Modules:
+- **Introduction**: Personal and research overview
+- **News**: Latest updates and achievements
+- **Publications**: Research papers with enhanced display
+- **Education**: Academic background and achievements
+- **Projects**: Research and open-source projects
+- **Services**: Academic activities and community involvement
 
-See more info at https://academicpages.github.io/
+## 🛠️ Setup Instructions
 
-## Running Locally
+### Prerequisites:
+- Ruby (2.7.0 or higher)
+- Jekyll
+- GitHub account
 
-When you are initially working your website, it is very useful to be able to preview the changes locally before pushing them to GitHub. To work locally you will need to:
+### Local Development:
+```bash
+# Clone the repository
+git clone https://github.com/Mubuky/mubuky.github.io.git
+cd mubuky.github.io
 
-1. Clone the repository and made updates as detailed above.
-1. Make sure you have ruby-dev, bundler, and nodejs installed
-    
-    On most Linux distribution and [Windows Subsystem Linux](https://learn.microsoft.com/en-us/windows/wsl/about) the command is:
-    ```bash
-    sudo apt install ruby-dev ruby-bundler nodejs
-    ```
-    On MacOS the commands are:
-    ```bash
-    brew install ruby
-    brew install node
-    gem install bundler
-    ```
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `jekyll serve -l -H localhost` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+# Install dependencies
+bundle install
 
-If you are running on Linux it may be necessary to install some additional dependencies prior to being able to run locally: `sudo apt install build-essential gcc make`
+# Run locally
+bundle exec jekyll serve
+```
 
-# Maintenance
+### Deployment:
+The site automatically deploys to GitHub Pages when changes are pushed to the main branch.
 
-Bug reports and feature requests to the template should be [submitted via GitHub](https://github.com/academicpages/academicpages.github.io/issues/new/choose). For questions concerning how to style the template, please feel free to start a [new discussion on GitHub](https://github.com/academicpages/academicpages.github.io/discussions).
+## 📝 Customization Guide
 
-This repository was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License (see LICENSE.md). It is currently being maintained by [Robert Zupko](https://github.com/rjzupkoii) and additional maintainers would be welcomed.
+### Personal Information:
+Edit `_config.yml` to update:
+- Personal details (name, bio, location)
+- Social media links
+- Google Scholar settings
 
-## Bugfixes and enhancements
+### Content Updates:
+All content modules are located in `_pages/includes/`:
+- `intro.md` - Personal introduction
+- `news.md` - Latest news and updates
+- `pub.md` - Research publications
+- `education.md` - Academic background
+- `projects.md` - Research and personal projects
+- `services.md` - Academic services
 
-If you have bugfixes and enhancements that you would like to submit as a pull request, you will need to [fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) this repository as opposed to using it as a template. This will also allow you to [synchronize your copy](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) of template to your fork as well.
+### Adding Publications:
+1. Add paper details to `pub.md`
+2. Include paper image in `/images/` directory
+3. Use the `paper-box` layout for enhanced display
 
-Unfortunately, one logistical issue with a template theme like Academic Pages that makes it a little tricky to get bug fixes and updates to the core theme. If you use this template and customize it, you will probably get merge conflicts if you attempt to synchronize. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch.
+### Google Scholar Stats:
+1. Enable in `_config.yml`: `google_scholar_stats_use_cdn: true`
+2. Generate stats using the provided crawler script
+3. Upload stats to `google-scholar-stats/gs_data.json`
+
+## 🎨 Styling
+
+The website uses custom CSS with:
+- **Paper-box layout** for research publications
+- **Responsive design** for all screen sizes
+- **Modern typography** and color scheme
+- **Smooth animations** and transitions
+
+## 📊 Analytics & Stats
+
+- Google Scholar citation tracking
+- GitHub repository statistics
+- Visitor analytics (when configured)
+
+## 🔧 Technical Details
+
+- **Framework**: Jekyll 4.x
+- **Theme**: Based on Minimal Mistakes (heavily customized)
+- **Hosting**: GitHub Pages
+- **CSS**: SCSS with custom components
+- **Icons**: Font Awesome
+- **Responsive**: Bootstrap-inspired grid system
+
+## 📄 License
+
+This project is licensed under the MIT License. Feel free to use it as a template for your own academic website.
+
+## 🤝 Contributing
+
+Suggestions and improvements are welcome! Please feel free to:
+1. Open an issue for bugs or feature requests
+2. Submit a pull request for improvements
+3. Share your customizations with the community
+
+## 📧 Contact
+
+**Mingzhe Li**  
+📧 Email: mzli@ir.hit.edu.cn  
+🔗 Website: https://mubuky.github.io  
+🎓 Institution: Harbin Institute of Technology
+
+---
+
+*Last updated: January 2025*

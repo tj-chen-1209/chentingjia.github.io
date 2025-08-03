@@ -15,6 +15,7 @@ description              : &description "A fourth-year B.Sc. student at SCIR (HI
 url                      : https://mubuky.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mubuky/mubuky.github.io"
+google_scholar_stats_use_cdn : true
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,9 +23,9 @@ repository               : "mubuky/mubuky.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Mingzhe Li"
+  name             : "Mingzhe Li / 李明哲"
   pronouns         : "he/him"
-  bio              : "A fourth-year B.Sc. student at SCIR (HIT, China), interning at Shanghai Innovation Institute"
+  bio              : "B.Sc. student @ HIT | Researcher @ SCIR | Intern @ Shanghai Innovation Institute"
   location         : "Harbin, China"
   employer         : "Harbin Institute of Technology"
   uri              : # URL
@@ -290,7 +291,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
