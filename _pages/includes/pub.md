@@ -1,5 +1,6 @@
-# 📝 Publications 
 
+# 📝 Publications 
+## 🎙 Data Synthesis
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Self-Foveate</div><img src='images/self-foveate-overview.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
