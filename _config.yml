@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Mingzhe Li / Mubuky"
-description              : "A fourth-year B.Sc. student at SCIR (HIT, China), interning at Shanghai Innovation Institute."
-repository               : "mubuky/mubuky.github.io"
+title                    : "Siqi Chen / Ice"
+description              : "A third-year M.Eng. student at AIUS (HIT, China)."
+repository               : "tj-chen-1209/chentingjia.github.io"
 google_scholar_stats_use_cdn : true
 
 
@@ -17,14 +17,14 @@ google_scholar_stats_use_cdn : true
 
 # Site Author
 author:
-  name             : "Mingzhe Li / 李明哲"
+  name             : "Siqi Chen / 陈思齐"
   avatar           : "images/profile.png"
-  bio              : "B.Sc. student @ HIT | Researcher @ SCIR | Intern @ Shanghai Innovation Institute"
-  location         : "Shanghai, China"
-  employer         : "Shanghai Innovation Institute"
+  bio              : "M.Eng. student @ HIT | Researcher @ AIUS"
+  location         : "Harbin, China"
+  employer         : "Harbin Institute of Technology"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=mHZ8IwgAAAAJ&hl=en"
-  email            : "mzli@ir.hit.edu.cn"
+  googlescholar    : 
+  email            : "chentingjia1209@163.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -33,7 +33,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Mubuky"
+  github           : "tj-chen-1209"
   google_plus      :
   keybase          :
   instagram        :
