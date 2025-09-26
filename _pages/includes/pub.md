@@ -9,5 +9,5 @@
 - Proposes a **probabilistic path planning algorithm** to track multiple ground moving targets using unmanned aerial vehicles methodology.
 - Solves the target tracking problem in urban environments by Monte Carlo experimental.
 
-</div>
-</div>
+<!-- </div>
+</div> -->
