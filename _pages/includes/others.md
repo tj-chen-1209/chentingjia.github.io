@@ -7,7 +7,8 @@
 
 <span class='anchor' id='-project'></span>
 
-# 🤖 Engineer
+# 🤖 Projects
+- *2023.10 - 2024.08*, HIT Innovation and Entrepreneurship Center. 
 - *2025.03 - 2025.07*, HIT Suzhou Research Institute,Suzhou. 
 
 <span class='anchor' id='-internships'></span>
