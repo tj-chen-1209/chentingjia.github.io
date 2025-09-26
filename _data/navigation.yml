@@ -12,11 +12,13 @@ main:
   - title: "Awards"
     url: "/#-awards"
 
+  - title: "Projects"
+    url: "/#-project"
+
   - title: "Internships"
     url: "/#-internships"
 
   - title: "Services"
     url: "/#-services"
     
-  - title: "Experiences"
-    url: "/#-project"
+
