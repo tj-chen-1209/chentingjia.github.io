@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Siqi Chen / Ice"
-description              : "A third-year M.Eng. student at AIUS (HIT, China)."
+description              : "A first-year master student at AIUS (HIT, China)."
 repository               : "tj-chen-1209/chentingjia.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -19,7 +19,7 @@ google_scholar_stats_use_cdn : true
 author:
   name             : "Siqi Chen<br> 陈思齐"
   avatar           : "images/profile.png"
-  bio              : "M.Eng. student @ HIT<br> Researcher @ AIUS(HIT)"
+  bio              : "Master student @ HIT<br> Researcher @ AIUS(HIT)"
   location         : "Harbin, China"
   employer         : "HIT"
   pubmed           : 

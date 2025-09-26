@@ -1,5 +1,5 @@
 
-I am a third-year M.Eng. student in the [Key Laboratory of Autonomous Intelligent Unmanned Systems(AIUS)](https://aius.hit.edu.cn/) at **Harbin Institute of Technology** (HIT, China).
+I am a first-year master student in the [Key Laboratory of Autonomous Intelligent Unmanned Systems(AIUS)](https://aius.hit.edu.cn/) at **Harbin Institute of Technology** (HIT, China).
 
 I am broadly interested in **Embodied AI** and **Robotics**. My current research focuses on **Reinforcement Learning**, **Deep Learning** and **Robotics**. I am currently looking for a research internship position in Embodied AI.
 <!-- ### Download my Resume -->
