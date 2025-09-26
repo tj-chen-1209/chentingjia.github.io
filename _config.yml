@@ -17,9 +17,9 @@ google_scholar_stats_use_cdn : true
 
 # Site Author
 author:
-  name             : "Siqi Chen\n| 陈思齐"
+  name             : "Siqi Chen<br>| 陈思齐"
   avatar           : "images/profile.png"
-  bio              : "M.Eng. student @ HIT\n| Researcher @ AIUS"
+  bio              : "M.Eng. student @ HIT<br>| Researcher @ AIUS(HIT)"
   location         : "Harbin, China"
   employer         : "HIT"
   pubmed           : 
